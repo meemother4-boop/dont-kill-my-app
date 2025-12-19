@@ -1,4 +1,4 @@
----
+Redmi Note12---
 manufacturer: 
     - xiaomi
 
